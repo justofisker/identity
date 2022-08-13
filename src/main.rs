@@ -15,7 +15,7 @@ bitflags::bitflags! {
 
 fn main() {
     let just = Identity {
-        gender: "Non-binary",
+        gender: "Agender",
         pronouns: Pronouns::IT_ITS,
     };
     let trixie = Identity {
